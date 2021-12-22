@@ -1,0 +1,24 @@
+Kasim 2021,9.7
+Ekim-2021,9.1
+Eylul-2021,8.7
+Agustos-2021,9.8
+Haziran-2021,8.5
+Mayis-2021,8.4
+Nisan-2021,9.1
+Mart-2021,8.9
+Subat-2021,8
+Ocak-2021,8.7
+Aralik-2020,7.6
+Kasim-2020,8.5
+Ekim-2020,8.1
+Agustos-2020,7.6
+Temmuz-2020,8
+Haziran-2020,8.9
+Mayis-2020,8.4
+Nisan-2020,7
+Mart-2020,7.5
+Subat-2020,10.1
+Aralik-2019,9.2
+Kasim-2019,9.7
+Ekim-2019,8.7
+Eylul-2019,9.9
